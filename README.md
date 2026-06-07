@@ -39,5 +39,13 @@ ant compile
 ant run
 ```
 
+## 📷 Screenshots
+
+<!-- Add your screenshots here, e.g. ![Main Dashboard](screenshots/dashboard.png) -->
+_Placeholders for application screenshots:_
+* **Login Panel**: ![Login Panel](screenshots/login.png)
+* **Product Management**: ![Product Management](screenshots/products.png)
+* **Billing System**: ![Billing System](screenshots/billing.png)
+
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
