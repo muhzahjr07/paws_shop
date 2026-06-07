@@ -1,0 +1,14 @@
+# NetBeans and Build Outputs
+/build/
+/dist/
+/nbproject/private/
+
+# Large media files (timelapse video)
+timelapse.mp4
+*.mp4
+
+# OS and IDE files
+.idea/
+.vscode/
+.DS_Store
+*.suo
