@@ -76,7 +76,7 @@ public class MainMenu extends javax.swing.JFrame {
         jLabel9.setText("Developed by Muhammad Zaharan CL/HDCSE/CMU/123/92");
 
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\jr\\Desktop\\Assignment\\oop\\PawsShop\\src\\logo\\logo.png")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/pawsshop/pawsshop/logo/logo.png"))); // NOI18N
 
         javax.swing.GroupLayout RightLayout = new javax.swing.GroupLayout(Right);
         Right.setLayout(RightLayout);
