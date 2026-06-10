@@ -1,6 +1,6 @@
 # Paws Shop - Pet Supplies Management System
 
-Paws Shop is a Java Swing-based desktop application designed for managing pet store inventory, supplies, cashiers, and checkout/billing workflows. 
+Paws Shop is a Java Swing-based desktop application designed for managing pet store inventory, supplies, cashiers, and checkout/billing workflows.
 
 ## 🌟 Key Features
 
@@ -21,19 +21,23 @@ Paws Shop is a Java Swing-based desktop application designed for managing pet st
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 * **Java Development Kit (JDK)** version 8 or higher.
 * **NetBeans IDE** (Recommended for viewing and editing `.form` files) or any other Java-compatible IDE (IntelliJ IDEA, Eclipse).
 
 ### Running the Application
 
 #### Using NetBeans
+
 1. Open NetBeans IDE.
 2. Select **File > Open Project** and choose the `paws_shop` directory.
 3. Clean and build the project.
 4. Run [Start.java](src/com/pawsshop/pawsshop/Start.java).
 
 #### Using Command Line
+
 Navigate to the project directory and build/run with Ant:
+
 ```bash
 ant compile
 ant run
@@ -43,14 +47,15 @@ ant run
 
 ### Desktop GUI Gallery
 
-| | |
-|:---:|:---:|
-| **Cashier Login** | **Main Dashboard Menu** |
-| ![Login Panel](screenshots/image%2026.png) | ![Main Menu](screenshots/image%2027.png) |
-| **View Active Supplies** | **Search & Filter Supplies** |
+|                                            |                                              |
+| :----------------------------------------: | :------------------------------------------: |
+|          **Cashier Login**          |            **Add Supplies**            |
+|  ![Login Panel](screenshots/image%2026.png)  |    ![Main Menu](screenshots/image%2027.png)    |
+|          **Main Dashboard**          |              **View Supplies**              |
 | ![View Supplies](screenshots/image%2028.png) | ![Search Supplies](screenshots/image%2029.png) |
-| **Add New Products / Stock** | **Create Cashier Account** |
+|      **Create Cashier Account**      |      **Search & Filter Supplies**      |
 | ![Add Supplies](screenshots/image%2030.png) | ![Create Cashier](screenshots/image%2031.png) |
 
 ## 📄 License
+
 This project is licensed under the [MIT License](LICENSE).
