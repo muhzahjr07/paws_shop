@@ -41,11 +41,16 @@ ant run
 
 ## 📷 Screenshots
 
-<!-- Add your screenshots here, e.g. ![Main Dashboard](screenshots/dashboard.png) -->
-_Placeholders for application screenshots:_
-* **Login Panel**: ![Login Panel](screenshots/login.png)
-* **Product Management**: ![Product Management](screenshots/products.png)
-* **Billing System**: ![Billing System](screenshots/billing.png)
+### Desktop GUI Gallery
+
+| | |
+|:---:|:---:|
+| **Cashier Login** | **Main Dashboard Menu** |
+| ![Login Panel](screenshots/image%2026.png) | ![Main Menu](screenshots/image%2027.png) |
+| **View Active Supplies** | **Search & Filter Supplies** |
+| ![View Supplies](screenshots/image%2028.png) | ![Search Supplies](screenshots/image%2029.png) |
+| **Add New Products / Stock** | **Create Cashier Account** |
+| ![Add Supplies](screenshots/image%2030.png) | ![Create Cashier](screenshots/image%2031.png) |
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).

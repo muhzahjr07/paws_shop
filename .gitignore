@@ -2,6 +2,7 @@
 /build/
 /dist/
 /nbproject/private/
+/target/
 
 # Large media files (timelapse video)
 timelapse.mp4
